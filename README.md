@@ -1,10 +1,4 @@
 # Gravitational-Wave-Overlap-Analysis
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyCBC-Gravitational%20Waves-orange?style=for-the-badge" alt="PyCBC">
-  <img src="https://img.shields.io/badge/NumPy-Data%20Analysis-green?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-</p>
 
 A Python-based research repository exploring multi-source overlapping gravitational-wave signals, cross-correlation template matching, and the empirical limitations of naïve waveform subtraction.
 
